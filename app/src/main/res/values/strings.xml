@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AnimationsApplication</string>
+    <string name="label">animation</string>
+    <string name="label_animation01">animation01</string>
+    <string name="label_animation02">animation02</string>
+    <string name="label_animation03">animation03</string>
+    <string name="label_animation04">animation04</string>
+    <string name="label_animation05">animation05</string>
+    <string name="label_animation06">animation06</string>
+    <string name="flip_interval">Flip Interval</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="start_auto_flip">Start Auto Flip</string>
+    <string name="add_an_image">add image</string>
+    <string name="remove">Remove</string>
+</resources>
