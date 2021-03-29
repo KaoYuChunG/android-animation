@@ -8,6 +8,7 @@
     <string name="label_animation05">animation05</string>
     <string name="label_animation06">animation06</string>
     <string name="label_animation07">animation07</string>
+    <string name="label_animation08">animation08</string>
     <string name="flip_interval">Flip Interval</string>
     <string name="previous">Previous</string>
     <string name="next">Next</string>

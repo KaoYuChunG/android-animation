@@ -45,4 +45,7 @@ dependencies {
     //Animation to menu
     implementation 'com.github.Hitomis:CircleMenu:v1.1.0'
 
+    //Onboarding Screen
+    implementation 'com.ramotion.paperonboarding:paper-onboarding:1.1.3'
+
 }
