@@ -18,6 +18,7 @@ import com.kao.animationsapplication.ani03.Ani03Activity;
 import com.kao.animationsapplication.ani04.Ani04Activity;
 import com.kao.animationsapplication.ani05.Ani05Activity;
 import com.kao.animationsapplication.ani06.Ani06Activity;
+import com.kao.animationsapplication.ani07.Ani07Activity;
 import com.kao.animationsapplication.model.MainItem;
 
 import java.util.ArrayList;
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         mainItems.add(new MainItem(4, R.string.label_animation04));
         mainItems.add(new MainItem(5, R.string.label_animation05));
         mainItems.add(new MainItem(6, R.string.label_animation06));
+        mainItems.add(new MainItem(7, R.string.label_animation07));
 
         // 1 -> Definir o comportamento de exibição do layout da recyclerview
         // mosaic
@@ -66,6 +68,9 @@ public class MainActivity extends AppCompatActivity {
                     break;
                 case 6:
                     startActivity(new Intent(MainActivity.this, Ani06Activity.class));
+                    break;
+                case 7:
+                    startActivity(new Intent(MainActivity.this, Ani07Activity.class));
                     break;
             }
         });

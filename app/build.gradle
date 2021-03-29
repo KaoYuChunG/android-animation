@@ -42,4 +42,7 @@ dependencies {
     // Animasi Slide Left Right
     implementation 'com.github.mohammadatif:Animatoo:master'
 
+    //Animation to menu
+    implementation 'com.github.Hitomis:CircleMenu:v1.1.0'
+
 }
